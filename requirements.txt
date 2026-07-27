@@ -1,0 +1,68 @@
+# ══════════════════════════════════════════════════════════════════════════════
+# requirements.txt  —  Drowsiness Detection System
+# Pipeline: MediaPipe Face Mesh + EAR + MAR + PERCLOS  (CPU-only)
+#
+# Audit basis: models.py imports only  cv2 · mediapipe · numpy
+# Every other entry below is a runtime utility (alerts, logging, display).
+# PyTorch / torchvision are REMOVED — the new pipeline has zero CNN inference.
+# ══════════════════════════════════════════════════════════════════════════════
+
+
+# ── Core pipeline (directly imported by models.py) ────────────────────────────
+
+# Face Mesh landmark extraction + EAR/MAR/PERCLOS geometry engine.
+# Bundles its own native binary (TFLite runtime) — no separate TF install needed.
+# IMPORTANT: mediapipe already vendors opencv-contrib-python internally.
+# Do NOT install opencv-python alongside it — they conflict on the cv2 namespace.
+# Use opencv-contrib-python instead, which provides the full OpenCV feature set.
+mediapipe>=0.10.14
+
+# OpenCV — video capture, BGR↔RGB conversion, solvePnP for head-pose.
+# Must use the *-contrib variant to match what mediapipe vendors; avoids
+# "cv2 imported twice" conflicts that cause segfaults on some platforms.
+# Pinned >=4.8 for VideoCapture stability improvements on Linux/macOS/Windows.
+opencv-contrib-python>=4.8.0
+
+# Numerical array operations — landmark coordinate math, np.clip, np.linalg.norm.
+# >=1.24 for reliable structured dtype support used by MediaPipe's numpy bridge.
+numpy>=1.24.0
+
+
+# ── Audio alerts ──────────────────────────────────────────────────────────────
+
+# Cross-platform audio for drowsiness alarm (buzzer / voice alert).
+# Lightest option that works on Windows + Linux + macOS without system codecs.
+pygame>=2.5.0
+
+
+# ── Progress & diagnostics ────────────────────────────────────────────────────
+
+# Progress bars for any offline video batch-processing scripts.
+tqdm>=4.65.0
+
+
+# ── Signal processing (optional but recommended) ──────────────────────────────
+
+# Used for optional Butterworth low-pass smoothing of EAR/MAR time-series
+# to suppress landmark jitter before feeding PerclosTracker.
+# Import pattern:  from scipy.signal import butter, filtfilt
+scipy>=1.11.0
+
+
+# ── Removed from original requirements ───────────────────────────────────────
+#
+# torch / torchvision / torchaudio  — REMOVED.
+#   The EfficientNetV2-S and MobileNetV3 CNNs are replaced by MediaPipe
+#   geometry. Zero CNN inference occurs anywhere in the pipeline.
+#   Re-add only if you add a separate classifier head on top of features.
+#
+# Pillow                            — REMOVED.
+#   PIL was only needed for torchvision transforms (ToTensor, Normalize).
+#   OpenCV handles all image I/O directly. Re-add if you add image saving.
+#
+# tensorboard                       — REMOVED.
+#   No training loop exists in the new pipeline. Re-add if you build a
+#   separate supervised calibration trainer on top of FrameFeatures.
+#
+# opencv-python                     — REPLACED by opencv-contrib-python.
+#   Both cannot coexist; contrib is a strict superset.
