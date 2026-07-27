@@ -1,0 +1,170 @@
+[2026-07-23 13:08:21] INFO     inference.pipeline — Pipeline device: cpu
+[2026-07-23 13:08:21] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_model.pth  (run train.py first)
+[2026-07-23 13:08:21] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_eye_model.pth  (run train.py first)
+[2026-07-23 13:08:21] WARNING  inference.pipeline — No trained model found. Running in GEOMETRY-ONLY mode (EAR + MAR + head pose). Accuracy will be limited.
+Train a model first with:  python train.py
+[2026-07-23 13:08:21] INFO     inference.pipeline — Camera 0 opened at 10 FPS  —  press 'q' to quit
+[2026-07-23 13:08:54] INFO     inference.pipeline — Pipeline stopped after 319 frames.
+[2026-07-23 13:09:01] INFO     inference.pipeline — Pipeline device: cpu
+[2026-07-23 13:09:01] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_model.pth  (run train.py first)
+[2026-07-23 13:09:01] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_eye_model.pth  (run train.py first)
+[2026-07-23 13:09:01] WARNING  inference.pipeline — No trained model found. Running in GEOMETRY-ONLY mode (EAR + MAR + head pose). Accuracy will be limited.
+Train a model first with:  python train.py
+[2026-07-23 13:09:02] INFO     inference.pipeline — Camera 0 opened at 10 FPS  —  press 'q' to quit
+[2026-07-23 13:09:26] INFO     inference.pipeline — Pipeline stopped after 237 frames.
+[2026-07-23 13:09:38] INFO     inference.pipeline — Pipeline device: cpu
+[2026-07-23 13:10:24] INFO     inference.pipeline — Pipeline device: cpu
+[2026-07-23 13:10:24] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_model.pth  (run train.py first)
+[2026-07-23 13:10:24] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_eye_model.pth  (run train.py first)
+[2026-07-23 13:10:24] WARNING  inference.pipeline — No trained model found. Running in GEOMETRY-ONLY mode (EAR + MAR + head pose). Accuracy will be limited.
+Train a model first with:  python train.py
+[2026-07-23 13:10:25] INFO     inference.pipeline — Camera 1 opened at 10 FPS  —  press 'q' to quit
+[2026-07-23 13:10:42] INFO     inference.pipeline — Pipeline stopped after 170 frames.
+[2026-07-23 13:10:57] INFO     inference.pipeline — Pipeline device: cpu
+[2026-07-23 13:10:57] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_model.pth  (run train.py first)
+[2026-07-23 13:10:57] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_eye_model.pth  (run train.py first)
+[2026-07-23 13:10:57] WARNING  inference.pipeline — No trained model found. Running in GEOMETRY-ONLY mode (EAR + MAR + head pose). Accuracy will be limited.
+Train a model first with:  python train.py
+[2026-07-23 13:10:57] INFO     inference.pipeline — Camera 0 opened at 10 FPS  —  press 'q' to quit
+[2026-07-23 13:11:27] INFO     inference.pipeline — Pipeline stopped after 296 frames.
+[2026-07-23 13:11:42] INFO     inference.pipeline — Pipeline device: cpu
+[2026-07-23 13:11:42] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_model.pth  (run train.py first)
+[2026-07-23 13:11:42] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_eye_model.pth  (run train.py first)
+[2026-07-23 13:11:42] WARNING  inference.pipeline — No trained model found. Running in GEOMETRY-ONLY mode (EAR + MAR + head pose). Accuracy will be limited.
+Train a model first with:  python train.py
+[2026-07-23 13:11:43] INFO     inference.pipeline — Camera 0 opened at 10 FPS  —  press 'q' to quit
+[2026-07-23 13:11:56] INFO     inference.pipeline — Pipeline stopped after 133 frames.
+[2026-07-23 13:38:36] INFO     inference.pipeline — Pipeline device: cpu
+[2026-07-23 13:38:36] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_model.pth  (run train.py first)
+[2026-07-23 13:38:36] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_eye_model.pth  (run train.py first)
+[2026-07-23 13:38:36] WARNING  inference.pipeline — No trained model found. Running in GEOMETRY-ONLY mode (EAR + MAR + head pose). Accuracy will be limited.
+Train a model first with:  python train.py
+[2026-07-23 13:38:36] INFO     inference.pipeline — Camera 0 opened at 10 FPS  —  press 'q' to quit
+[2026-07-23 13:40:40] INFO     inference.pipeline — Pipeline stopped after 958 frames.
+[2026-07-23 13:44:33] INFO     inference.pipeline — Pipeline device: cpu
+[2026-07-23 13:44:33] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_model.pth  (run train.py first)
+[2026-07-23 13:44:33] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_eye_model.pth  (run train.py first)
+[2026-07-23 13:44:33] WARNING  inference.pipeline — No trained model found. Running in GEOMETRY-ONLY mode (EAR + MAR + head pose). Accuracy will be limited.
+Train a model first with:  python train.py
+[2026-07-23 13:44:33] INFO     inference.pipeline — Camera 0 opened at 10 FPS  —  press 'q' to quit
+[2026-07-23 13:45:27] INFO     inference.pipeline — Pipeline stopped after 534 frames.
+[2026-07-23 14:54:13] INFO     inference.pipeline — Pipeline device: cpu
+[2026-07-23 14:54:13] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_model.pth  (run train.py first)
+[2026-07-23 14:54:13] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_eye_model.pth  (run train.py first)
+[2026-07-23 14:54:13] WARNING  inference.pipeline — No trained model found. Running in GEOMETRY-ONLY mode (EAR + MAR + head pose). Accuracy will be limited.
+Train a model first with:  python train.py
+[2026-07-23 14:54:13] INFO     inference.pipeline — Camera 0 opened at 10 FPS  —  press 'q' to quit
+[2026-07-23 14:54:29] INFO     inference.pipeline — Pipeline stopped after 148 frames.
+[2026-07-23 14:55:28] INFO     inference.pipeline — Pipeline device: cpu
+[2026-07-23 14:55:28] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_model.pth  (run train.py first)
+[2026-07-23 14:55:28] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_eye_model.pth  (run train.py first)
+[2026-07-23 14:55:28] WARNING  inference.pipeline — No trained model found. Running in GEOMETRY-ONLY mode (EAR + MAR + head pose). Accuracy will be limited.
+Train a model first with:  python train.py
+[2026-07-23 14:55:28] INFO     inference.pipeline — Camera 0 opened at 10 FPS  —  press 'q' to quit
+[2026-07-23 14:55:41] INFO     inference.pipeline — Pipeline stopped after 117 frames.
+[2026-07-23 15:56:35] INFO     inference.pipeline — Pipeline device: cpu
+[2026-07-23 15:56:35] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_model.pth  (run train.py first)
+[2026-07-23 15:56:35] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_eye_model.pth  (run train.py first)
+[2026-07-23 15:56:35] WARNING  inference.pipeline — No trained model found. Running in GEOMETRY-ONLY mode (EAR + MAR + head pose). Accuracy will be limited.
+Train a model first with:  python train.py
+[2026-07-23 15:56:35] INFO     inference.pipeline — Camera 0 opened at 10 FPS  —  press 'q' to quit
+[2026-07-23 15:57:19] INFO     inference.pipeline — Pipeline stopped after 427 frames.
+[2026-07-23 16:08:41] INFO     inference.pipeline — Pipeline device: cpu
+[2026-07-23 16:08:41] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_model.pth  (run train.py first)
+[2026-07-23 16:08:41] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_eye_model.pth  (run train.py first)
+[2026-07-23 16:08:41] WARNING  inference.pipeline — No trained model found. Running in GEOMETRY-ONLY mode (EAR + MAR + head pose). Accuracy will be limited.
+Train a model first with:  python train.py
+[2026-07-23 16:08:41] INFO     inference.pipeline — Camera 0 opened at 10 FPS  —  press 'q' to quit
+[2026-07-23 16:08:52] INFO     inference.pipeline — Pipeline stopped after 107 frames.
+[2026-07-23 16:09:07] INFO     inference.pipeline — Pipeline device: cpu
+[2026-07-23 16:09:07] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_model.pth  (run train.py first)
+[2026-07-23 16:09:07] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_eye_model.pth  (run train.py first)
+[2026-07-23 16:09:07] WARNING  inference.pipeline — No trained model found. Running in GEOMETRY-ONLY mode (EAR + MAR + head pose). Accuracy will be limited.
+Train a model first with:  python train.py
+[2026-07-23 16:09:07] INFO     inference.pipeline — Camera 0 opened at 10 FPS  —  press 'q' to quit
+[2026-07-23 16:09:31] INFO     inference.pipeline — Pipeline stopped after 227 frames.
+[2026-07-23 16:10:38] INFO     inference.pipeline — Pipeline device: cpu
+[2026-07-23 16:11:00] INFO     inference.pipeline — Pipeline device: cpu
+[2026-07-23 16:11:00] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_model.pth  (run train.py first)
+[2026-07-23 16:11:00] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_eye_model.pth  (run train.py first)
+[2026-07-23 16:11:00] WARNING  inference.pipeline — No trained model found. Running in GEOMETRY-ONLY mode (EAR + MAR + head pose). Accuracy will be limited.
+Train a model first with:  python train.py
+[2026-07-23 16:11:01] INFO     inference.pipeline — Camera 1 opened at 10 FPS  —  press 'q' to quit
+[2026-07-23 16:11:12] INFO     inference.pipeline — Pipeline stopped after 105 frames.
+[2026-07-23 16:11:35] INFO     inference.pipeline — Pipeline device: cpu
+[2026-07-23 16:11:35] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_model.pth  (run train.py first)
+[2026-07-23 16:11:35] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_eye_model.pth  (run train.py first)
+[2026-07-23 16:11:35] WARNING  inference.pipeline — No trained model found. Running in GEOMETRY-ONLY mode (EAR + MAR + head pose). Accuracy will be limited.
+Train a model first with:  python train.py
+[2026-07-23 16:11:35] INFO     inference.pipeline — Camera 0 opened at 10 FPS  —  press 'q' to quit
+[2026-07-23 16:11:57] INFO     inference.pipeline — Pipeline stopped after 208 frames.
+[2026-07-23 16:12:14] INFO     inference.pipeline — Pipeline device: cpu
+[2026-07-23 16:12:14] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_model.pth  (run train.py first)
+[2026-07-23 16:12:14] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_eye_model.pth  (run train.py first)
+[2026-07-23 16:12:14] WARNING  inference.pipeline — No trained model found. Running in GEOMETRY-ONLY mode (EAR + MAR + head pose). Accuracy will be limited.
+Train a model first with:  python train.py
+[2026-07-23 16:12:14] INFO     inference.pipeline — Camera 0 opened at 10 FPS  —  press 'q' to quit
+[2026-07-23 16:13:33] INFO     inference.pipeline — Pipeline stopped after 762 frames.
+[2026-07-23 16:13:39] INFO     inference.pipeline — Pipeline device: cpu
+[2026-07-23 16:13:40] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_model.pth  (run train.py first)
+[2026-07-23 16:13:40] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_eye_model.pth  (run train.py first)
+[2026-07-23 16:13:40] WARNING  inference.pipeline — No trained model found. Running in GEOMETRY-ONLY mode (EAR + MAR + head pose). Accuracy will be limited.
+Train a model first with:  python train.py
+[2026-07-23 16:13:40] INFO     inference.pipeline — Camera 0 opened at 10 FPS  —  press 'q' to quit
+[2026-07-23 16:14:11] INFO     inference.pipeline — Pipeline stopped after 303 frames.
+[2026-07-23 20:43:33] INFO     inference.pipeline — Pipeline device: cpu
+[2026-07-23 20:43:33] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_model.pth  (run train.py first)
+[2026-07-23 20:43:33] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_eye_model.pth  (run train.py first)
+[2026-07-23 20:43:33] WARNING  inference.pipeline — No trained model found. Running in GEOMETRY-ONLY mode (EAR + MAR + head pose). Accuracy will be limited.
+Train a model first with:  python train.py
+[2026-07-23 20:43:33] INFO     inference.pipeline — Camera 0 opened at 10 FPS  —  press 'q' to quit
+[2026-07-23 20:44:02] INFO     inference.pipeline — Pipeline stopped after 279 frames.
+[2026-07-23 22:57:32] INFO     inference.pipeline — Pipeline device: cpu
+[2026-07-23 22:57:32] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_model.pth  (run train.py first)
+[2026-07-23 22:57:32] WARNING  inference.pipeline — Checkpoint not found: /home/muhammad/drowsiness_detection/checkpoints/best_eye_model.pth  (run train.py first)
+[2026-07-23 22:57:32] WARNING  inference.pipeline — No trained model found. Running in GEOMETRY-ONLY mode (EAR + MAR + head pose). Accuracy will be limited.
+Train a model first with:  python train.py
+[2026-07-23 22:57:32] INFO     inference.pipeline — Camera 0 opened at 10 FPS  —  press 'q' to quit
+[2026-07-23 22:58:53] INFO     inference.pipeline — Pipeline stopped after 784 frames.
+[2026-07-24 17:58:23] INFO     inference.pipeline — Pipeline configured (MediaPipe Face Mesh, CPU-only).
+[2026-07-24 17:58:24] INFO     inference.pipeline — Camera 0 opened at 1280x720 @ 10 FPS — press 'q' to quit
+[2026-07-24 18:03:32] INFO     inference.pipeline — Pipeline stopped after 3016 frames.
+[2026-07-24 18:05:20] INFO     inference.pipeline — Pipeline configured (MediaPipe Face Mesh, CPU-only).
+[2026-07-24 18:05:20] INFO     inference.pipeline — Camera 1 opened at 1280x720 @ 10 FPS — press 'q' to quit
+[2026-07-24 18:06:22] INFO     inference.pipeline — Pipeline stopped after 611 frames.
+[2026-07-24 18:06:55] INFO     inference.pipeline — Pipeline configured (MediaPipe Face Mesh, CPU-only).
+[2026-07-24 18:06:55] INFO     inference.pipeline — Camera 0 opened at 1280x720 @ 10 FPS — press 'q' to quit
+[2026-07-24 18:07:07] INFO     inference.pipeline — Pipeline stopped after 113 frames.
+[2026-07-25 10:10:41] INFO     inference.pipeline — Pipeline configured (MediaPipe Face Mesh, CPU-only).
+[2026-07-25 10:10:41] INFO     inference.pipeline — Camera 0 opened at 1280x720 @ 10 FPS — press 'q' to quit
+[2026-07-25 10:15:16] INFO     inference.pipeline — Pipeline stopped after 2698 frames.
+[2026-07-25 10:15:26] INFO     inference.pipeline — Pipeline configured (MediaPipe Face Mesh, CPU-only).
+[2026-07-25 10:15:27] INFO     inference.pipeline — Camera 1 opened at 1280x720 @ 10 FPS — press 'q' to quit
+[2026-07-25 10:20:25] INFO     inference.pipeline — Pipeline stopped after 2962 frames.
+[2026-07-25 11:12:53] INFO     inference.pipeline — Pipeline configured (MediaPipe Face Mesh, CPU-only).
+[2026-07-25 11:12:54] INFO     inference.pipeline — Camera 1 opened at 1280x720 @ 10 FPS — press 'q' to quit
+[2026-07-25 11:17:31] INFO     inference.pipeline — Pipeline stopped after 2754 frames.
+[2026-07-25 11:17:45] INFO     inference.pipeline — Pipeline configured (MediaPipe Face Mesh, CPU-only).
+[2026-07-25 11:17:45] INFO     inference.pipeline — Camera 0 opened at 1280x720 @ 10 FPS — press 'q' to quit
+[2026-07-25 11:19:06] INFO     inference.pipeline — Pipeline stopped after 778 frames.
+[2026-07-25 11:19:12] INFO     inference.pipeline — Pipeline configured (MediaPipe Face Mesh, CPU-only).
+[2026-07-25 11:19:13] INFO     inference.pipeline — Camera 1 opened at 1280x720 @ 10 FPS — press 'q' to quit
+[2026-07-25 11:20:35] INFO     inference.pipeline — Pipeline stopped after 820 frames.
+[2026-07-25 11:30:56] INFO     inference.pipeline — Pipeline configured (MediaPipe Face Mesh, CPU-only).
+[2026-07-25 11:30:57] INFO     inference.pipeline — Camera 1 opened at 1280x720 @ 10 FPS — press 'q' to quit
+[2026-07-25 11:31:45] INFO     inference.pipeline — Pipeline stopped after 484 frames.
+[2026-07-25 12:51:45] INFO     inference.pipeline — Pipeline configured (MediaPipe Face Mesh, CPU-only).
+[2026-07-25 12:51:45] INFO     inference.pipeline — Camera 1 opened at 640x480 @ 30 FPS — press 'q' to quit
+[2026-07-25 12:52:14] INFO     inference.pipeline — Pipeline stopped after 878 frames.
+[2026-07-25 16:29:53] INFO     inference.pipeline — Pipeline configured (MediaPipe Face Mesh, CPU-only).
+[2026-07-25 16:29:54] INFO     inference.pipeline — Camera 1 opened at 640x480 @ 30 FPS — press 'q' to quit
+[2026-07-25 16:32:31] INFO     inference.pipeline — Pipeline stopped after 4727 frames.
+[2026-07-25 16:32:38] INFO     inference.pipeline — Pipeline configured (MediaPipe Face Mesh, CPU-only).
+[2026-07-25 16:32:39] INFO     inference.pipeline — Camera 0 opened at 1280x720 @ 10 FPS — press 'q' to quit
+[2026-07-25 16:33:20] INFO     inference.pipeline — Pipeline stopped after 406 frames.
+[2026-07-26 10:47:43] INFO     inference.pipeline — Pipeline configured (MediaPipe Face Mesh, CPU-only).
+[2026-07-26 10:47:44] INFO     inference.pipeline — Camera 0 opened at 1280x720 @ 10 FPS — press 'q' to quit
+[2026-07-26 10:53:05] INFO     inference.pipeline — Pipeline stopped after 3206 frames.
+[2026-07-26 10:53:21] INFO     inference.pipeline — Pipeline configured (MediaPipe Face Mesh, CPU-only).
+[2026-07-26 10:53:21] INFO     inference.pipeline — Camera 1 opened at 1280x720 @ 10 FPS — press 'q' to quit
+[2026-07-26 10:56:21] INFO     inference.pipeline — Pipeline stopped after 1800 frames.

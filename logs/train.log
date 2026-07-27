@@ -1,0 +1,512 @@
+[2026-07-23 13:08:09] INFO     __main__ — ============================================================
+[2026-07-23 13:08:09] INFO     __main__ — Driver Drowsiness Detection — Training
+[2026-07-23 13:08:09] INFO     __main__ — ============================================================
+[2026-07-23 13:08:09] INFO     __main__ — Device        : CPU
+[2026-07-23 13:08:09] INFO     __main__ — Backbone      : efficientnet_v2_s
+[2026-07-23 13:08:09] INFO     __main__ — Dataset root  : /home/muhammad/drowsiness_detection/dataset
+[2026-07-23 13:08:09] INFO     __main__ — Epochs        : 50
+[2026-07-23 13:08:09] INFO     __main__ — Batch size    : 32
+[2026-07-23 13:08:09] INFO     __main__ — Learning rate : 0.0003
+[2026-07-23 13:08:09] INFO     __main__ — AMP           : True
+[2026-07-23 13:08:09] INFO     __main__ — ============================================================
+[2026-07-23 13:33:22] INFO     __main__ — ============================================================
+[2026-07-23 13:33:22] INFO     __main__ — Driver Drowsiness Detection — Training
+[2026-07-23 13:33:22] INFO     __main__ — ============================================================
+[2026-07-23 13:33:22] INFO     __main__ — Device        : CPU
+[2026-07-23 13:33:22] INFO     __main__ — Backbone      : efficientnet_v2_s
+[2026-07-23 13:33:22] INFO     __main__ — Dataset root  : /home/muhammad/drowsiness_detection/dataset
+[2026-07-23 13:33:22] INFO     __main__ — Epochs        : 50
+[2026-07-23 13:33:22] INFO     __main__ — Batch size    : 32
+[2026-07-23 13:33:22] INFO     __main__ — Learning rate : 0.0003
+[2026-07-23 13:33:22] INFO     __main__ — AMP           : True
+[2026-07-23 13:33:22] INFO     __main__ — ============================================================
+[2026-07-23 13:38:25] INFO     __main__ — ============================================================
+[2026-07-23 13:38:25] INFO     __main__ — Driver Drowsiness Detection — Training
+[2026-07-23 13:38:25] INFO     __main__ — ============================================================
+[2026-07-23 13:38:25] INFO     __main__ — Device        : CPU
+[2026-07-23 13:38:25] INFO     __main__ — Backbone      : efficientnet_v2_s
+[2026-07-23 13:38:25] INFO     __main__ — Dataset root  : /home/muhammad/drowsiness_detection/dataset
+[2026-07-23 13:38:25] INFO     __main__ — Epochs        : 50
+[2026-07-23 13:38:25] INFO     __main__ — Batch size    : 32
+[2026-07-23 13:38:25] INFO     __main__ — Learning rate : 0.0003
+[2026-07-23 13:38:25] INFO     __main__ — AMP           : True
+[2026-07-23 13:38:25] INFO     __main__ — ============================================================
+[2026-07-23 14:54:01] INFO     __main__ — ============================================================
+[2026-07-23 14:54:01] INFO     __main__ — Driver Drowsiness Detection — Training
+[2026-07-23 14:54:01] INFO     __main__ — ============================================================
+[2026-07-23 14:54:01] INFO     __main__ — Device        : CPU
+[2026-07-23 14:54:01] INFO     __main__ — Backbone      : efficientnet_v2_s
+[2026-07-23 14:54:01] INFO     __main__ — Dataset root  : /home/muhammad/drowsiness_detection/dataset
+[2026-07-23 14:54:01] INFO     __main__ — Epochs        : 50
+[2026-07-23 14:54:01] INFO     __main__ — Batch size    : 32
+[2026-07-23 14:54:01] INFO     __main__ — Learning rate : 0.0003
+[2026-07-23 14:54:01] INFO     __main__ — AMP           : True
+[2026-07-23 14:54:01] INFO     __main__ — ============================================================
+[2026-07-23 15:52:15] INFO     __main__ — ============================================================
+[2026-07-23 15:52:15] INFO     __main__ — Driver Drowsiness Detection — Training
+[2026-07-23 15:52:15] INFO     __main__ — ============================================================
+[2026-07-23 15:52:15] INFO     __main__ — Device        : CPU
+[2026-07-23 15:52:15] INFO     __main__ — Backbone      : efficientnet_v2_s
+[2026-07-23 15:52:15] INFO     __main__ — Dataset root  : /home/muhammad/drowsiness_detection/dataset
+[2026-07-23 15:52:15] INFO     __main__ — Epochs        : 50
+[2026-07-23 15:52:15] INFO     __main__ — Batch size    : 32
+[2026-07-23 15:52:15] INFO     __main__ — Learning rate : 0.0003
+[2026-07-23 15:52:15] INFO     __main__ — AMP           : True
+[2026-07-23 15:52:15] INFO     __main__ — ============================================================
+[2026-07-23 15:52:15] INFO     __main__ — 
+--- Training Face / Full-Frame Model ---
+[2026-07-23 15:55:51] INFO     training.trainer — Training device: cpu
+[2026-07-23 15:55:51] INFO     training.trainer — Starting training: 50 epochs | face_model
+[2026-07-23 16:08:17] INFO     __main__ — ============================================================
+[2026-07-23 16:08:17] INFO     __main__ — Driver Drowsiness Detection — Training
+[2026-07-23 16:08:17] INFO     __main__ — ============================================================
+[2026-07-23 16:08:17] INFO     __main__ — Device        : CPU
+[2026-07-23 16:08:17] INFO     __main__ — Backbone      : efficientnet_v2_s
+[2026-07-23 16:08:17] INFO     __main__ — Dataset root  : /home/muhammad/drowsiness_detection/dataset
+[2026-07-23 16:08:17] INFO     __main__ — Epochs        : 50
+[2026-07-23 16:08:17] INFO     __main__ — Batch size    : 32
+[2026-07-23 16:08:17] INFO     __main__ — Learning rate : 0.0003
+[2026-07-23 16:08:17] INFO     __main__ — AMP           : True
+[2026-07-23 16:08:17] INFO     __main__ — ============================================================
+[2026-07-23 16:08:17] INFO     __main__ — 
+--- Training Face / Full-Frame Model ---
+[2026-07-23 16:08:18] INFO     training.trainer — Training device: cpu
+[2026-07-23 16:08:18] INFO     training.trainer — Starting training: 50 epochs | face_model
+[2026-07-23 16:08:32] INFO     __main__ — ============================================================
+[2026-07-23 16:08:32] INFO     __main__ — Driver Drowsiness Detection — Training
+[2026-07-23 16:08:32] INFO     __main__ — ============================================================
+[2026-07-23 16:08:32] INFO     __main__ — Device        : CPU
+[2026-07-23 16:08:32] INFO     __main__ — Backbone      : efficientnet_v2_s
+[2026-07-23 16:08:32] INFO     __main__ — Dataset root  : /home/muhammad/drowsiness_detection/dataset
+[2026-07-23 16:08:32] INFO     __main__ — Epochs        : 50
+[2026-07-23 16:08:32] INFO     __main__ — Batch size    : 32
+[2026-07-23 16:08:32] INFO     __main__ — Learning rate : 0.0003
+[2026-07-23 16:08:32] INFO     __main__ — AMP           : True
+[2026-07-23 16:08:32] INFO     __main__ — ============================================================
+[2026-07-23 16:08:32] INFO     __main__ — 
+--- Training Face / Full-Frame Model ---
+[2026-07-23 16:08:32] INFO     training.trainer — Training device: cpu
+[2026-07-23 16:08:32] INFO     training.trainer — Starting training: 50 epochs | face_model
+[2026-07-23 20:43:12] INFO     __main__ — ============================================================
+[2026-07-23 20:43:12] INFO     __main__ — Driver Drowsiness Detection — Training
+[2026-07-23 20:43:12] INFO     __main__ — ============================================================
+[2026-07-23 20:43:12] INFO     __main__ — Device        : CPU
+[2026-07-23 20:43:12] INFO     __main__ — Backbone      : efficientnet_v2_s
+[2026-07-23 20:43:12] INFO     __main__ — Dataset root  : /home/muhammad/drowsiness_detection/dataset
+[2026-07-23 20:43:12] INFO     __main__ — Epochs        : 50
+[2026-07-23 20:43:12] INFO     __main__ — Batch size    : 32
+[2026-07-23 20:43:12] INFO     __main__ — Learning rate : 0.0003
+[2026-07-23 20:43:12] INFO     __main__ — AMP           : True
+[2026-07-23 20:43:12] INFO     __main__ — ============================================================
+[2026-07-23 20:43:12] INFO     __main__ — 
+--- Training Face / Full-Frame Model ---
+[2026-07-23 20:43:12] INFO     training.trainer — Training device: cpu
+[2026-07-23 20:43:12] INFO     training.trainer — Starting training: 50 epochs | face_model
+[2026-07-23 22:03:43] INFO     __main__ — ============================================================
+[2026-07-23 22:03:43] INFO     __main__ — Driver Drowsiness Detection — Training
+[2026-07-23 22:03:43] INFO     __main__ — ============================================================
+[2026-07-23 22:03:43] INFO     __main__ — Device        : CPU
+[2026-07-23 22:03:43] INFO     __main__ — Backbone      : efficientnet_v2_s
+[2026-07-23 22:03:43] INFO     __main__ — Dataset root  : /home/muhammad/drowsiness_detection/dataset
+[2026-07-23 22:03:43] INFO     __main__ — Epochs        : 50
+[2026-07-23 22:03:43] INFO     __main__ — Batch size    : 32
+[2026-07-23 22:03:43] INFO     __main__ — Learning rate : 0.0003
+[2026-07-23 22:03:43] INFO     __main__ — AMP           : True
+[2026-07-23 22:03:43] INFO     __main__ — ============================================================
+[2026-07-23 22:03:43] INFO     __main__ — 
+--- Training Face / Full-Frame Model ---
+[2026-07-23 22:03:43] INFO     training.trainer — Training device: cpu
+[2026-07-23 22:03:43] INFO     training.trainer — Starting training: 50 epochs | face_model
+[2026-07-23 22:03:57] INFO     __main__ — ============================================================
+[2026-07-23 22:03:57] INFO     __main__ — Driver Drowsiness Detection — Training
+[2026-07-23 22:03:57] INFO     __main__ — ============================================================
+[2026-07-23 22:03:57] INFO     __main__ — Device        : CPU
+[2026-07-23 22:03:57] INFO     __main__ — Backbone      : efficientnet_v2_s
+[2026-07-23 22:03:57] INFO     __main__ — Dataset root  : /home/muhammad/drowsiness_detection/dataset
+[2026-07-23 22:03:57] INFO     __main__ — Epochs        : 50
+[2026-07-23 22:03:57] INFO     __main__ — Batch size    : 32
+[2026-07-23 22:03:57] INFO     __main__ — Learning rate : 0.0003
+[2026-07-23 22:03:57] INFO     __main__ — AMP           : True
+[2026-07-23 22:03:57] INFO     __main__ — ============================================================
+[2026-07-23 22:03:57] INFO     __main__ — 
+--- Training Face / Full-Frame Model ---
+[2026-07-23 22:03:57] INFO     training.trainer — Training device: cpu
+[2026-07-23 22:03:57] INFO     training.trainer — Starting training: 50 epochs | face_model
+[2026-07-23 22:07:16] INFO     __main__ — ============================================================
+[2026-07-23 22:07:16] INFO     __main__ — Driver Drowsiness Detection — Training
+[2026-07-23 22:07:16] INFO     __main__ — ============================================================
+[2026-07-23 22:07:16] INFO     __main__ — Device        : CPU
+[2026-07-23 22:07:16] INFO     __main__ — Backbone      : efficientnet_v2_s
+[2026-07-23 22:07:16] INFO     __main__ — Dataset root  : /home/muhammad/drowsiness_detection/dataset
+[2026-07-23 22:07:16] INFO     __main__ — Epochs        : 1
+[2026-07-23 22:07:16] INFO     __main__ — Batch size    : 2
+[2026-07-23 22:07:16] INFO     __main__ — Learning rate : 0.0003
+[2026-07-23 22:07:16] INFO     __main__ — AMP           : False
+[2026-07-23 22:07:16] INFO     __main__ — ============================================================
+[2026-07-23 22:07:16] INFO     __main__ — 
+--- Training Face / Full-Frame Model ---
+[2026-07-23 22:07:16] INFO     training.trainer — Training device: cpu
+[2026-07-23 22:07:16] INFO     training.trainer — Starting training: 1 epochs | face_model
+[2026-07-23 22:07:41] INFO     training.trainer — Epoch   1/1 | TrainLoss=0.4497 TrainAcc=0.4796 | ValLoss=0.1831 ValAcc=0.6250 | LR=8.40e-05 | 25.2s
+[2026-07-23 22:07:42] INFO     training.trainer —   ✓ New best checkpoint saved (val_acc=0.6250)
+[2026-07-23 22:07:42] INFO     training.trainer — Training complete. Best val_acc=0.6250 | checkpoint=/home/muhammad/drowsiness_detection/checkpoints/best_face_model.pth
+[2026-07-23 22:07:42] INFO     __main__ — Face model done — best val_acc: 0.6250
+[2026-07-23 22:07:42] INFO     __main__ — Checkpoint: /home/muhammad/drowsiness_detection/checkpoints/best_face_model.pth
+[2026-07-23 22:08:26] INFO     __main__ — ============================================================
+[2026-07-23 22:08:26] INFO     __main__ — Driver Drowsiness Detection — Training
+[2026-07-23 22:08:26] INFO     __main__ — ============================================================
+[2026-07-23 22:08:26] INFO     __main__ — Device        : CPU
+[2026-07-23 22:08:26] INFO     __main__ — Backbone      : efficientnet_v2_s
+[2026-07-23 22:08:26] INFO     __main__ — Dataset root  : /home/muhammad/drowsiness_detection/dataset
+[2026-07-23 22:08:26] INFO     __main__ — Epochs        : 50
+[2026-07-23 22:08:26] INFO     __main__ — Batch size    : 32
+[2026-07-23 22:08:26] INFO     __main__ — Learning rate : 0.0003
+[2026-07-23 22:08:26] INFO     __main__ — AMP           : True
+[2026-07-23 22:08:26] INFO     __main__ — ============================================================
+[2026-07-23 22:08:26] INFO     __main__ — 
+--- Training Face / Full-Frame Model ---
+[2026-07-23 22:08:26] INFO     training.trainer — Training device: cpu
+[2026-07-23 22:08:26] INFO     training.trainer — Starting training: 50 epochs | face_model
+[2026-07-23 22:17:30] INFO     __main__ — ============================================================
+[2026-07-23 22:17:30] INFO     __main__ — Driver Drowsiness Detection — Training
+[2026-07-23 22:17:30] INFO     __main__ — ============================================================
+[2026-07-23 22:17:30] INFO     __main__ — Device        : CPU
+[2026-07-23 22:17:30] INFO     __main__ — Backbone      : efficientnet_v2_s
+[2026-07-23 22:17:30] INFO     __main__ — Dataset root  : /home/muhammad/drowsiness_detection/dataset
+[2026-07-23 22:17:30] INFO     __main__ — Epochs        : 50
+[2026-07-23 22:17:30] INFO     __main__ — Batch size    : 32
+[2026-07-23 22:17:30] INFO     __main__ — Learning rate : 0.0003
+[2026-07-23 22:17:30] INFO     __main__ — AMP           : True
+[2026-07-23 22:17:30] INFO     __main__ — ============================================================
+[2026-07-23 22:17:30] INFO     __main__ — 
+--- Training Face / Full-Frame Model ---
+[2026-07-23 22:17:30] INFO     training.trainer — Training device: cpu
+[2026-07-23 22:17:30] INFO     training.trainer — Starting training: 50 epochs | face_model
+[2026-07-23 22:41:34] INFO     __main__ — ============================================================
+[2026-07-23 22:41:34] INFO     __main__ — Driver Drowsiness Detection — Training
+[2026-07-23 22:41:34] INFO     __main__ — ============================================================
+[2026-07-23 22:41:34] INFO     __main__ — Device        : CPU
+[2026-07-23 22:41:34] INFO     __main__ — Backbone      : mobilenet_v3_large
+[2026-07-23 22:41:34] INFO     __main__ — Dataset root  : dataset
+[2026-07-23 22:41:34] INFO     __main__ — Epochs        : 1
+[2026-07-23 22:41:34] INFO     __main__ — Batch size    : 2
+[2026-07-23 22:41:34] INFO     __main__ — Learning rate : 0.0002
+[2026-07-23 22:41:34] INFO     __main__ — AMP           : True
+[2026-07-23 22:41:34] INFO     __main__ — ============================================================
+[2026-07-23 22:48:21] INFO     __main__ — ============================================================
+[2026-07-23 22:48:21] INFO     __main__ — Driver Drowsiness Detection — Training
+[2026-07-23 22:48:21] INFO     __main__ — ============================================================
+[2026-07-23 22:48:21] INFO     __main__ — Device        : CPU
+[2026-07-23 22:48:21] INFO     __main__ — Backbone      : mobilenet_v3_large
+[2026-07-23 22:48:21] INFO     __main__ — Dataset root  : dataset
+[2026-07-23 22:48:21] INFO     __main__ — Epochs        : 1
+[2026-07-23 22:48:21] INFO     __main__ — Batch size    : 2
+[2026-07-23 22:48:21] INFO     __main__ — Learning rate : 0.0002
+[2026-07-23 22:48:21] INFO     __main__ — AMP           : True
+[2026-07-23 22:48:21] INFO     __main__ — ============================================================
+[2026-07-23 22:49:54] INFO     __main__ — ============================================================
+[2026-07-23 22:49:54] INFO     __main__ — Driver Drowsiness Detection — Training
+[2026-07-23 22:49:54] INFO     __main__ — ============================================================
+[2026-07-23 22:49:54] INFO     __main__ — Device        : CPU
+[2026-07-23 22:49:54] INFO     __main__ — Backbone      : mobilenet_v3_large
+[2026-07-23 22:49:54] INFO     __main__ — Dataset root  : dataset
+[2026-07-23 22:49:54] INFO     __main__ — Epochs        : 1
+[2026-07-23 22:49:54] INFO     __main__ — Batch size    : 2
+[2026-07-23 22:49:54] INFO     __main__ — Learning rate : 0.0002
+[2026-07-23 22:49:54] INFO     __main__ — AMP           : True
+[2026-07-23 22:49:54] INFO     __main__ — ============================================================
+[2026-07-23 22:49:54] INFO     __main__ — 
+--- Training Face / Full-Frame Model ---
+[2026-07-23 22:50:43] INFO     training.trainer — Training device: cpu
+[2026-07-23 22:50:43] INFO     training.trainer — Starting training: 1 epochs | face_model
+[2026-07-23 22:51:10] INFO     training.trainer — Epoch   1/1 | TrainLoss=0.5047 TrainAcc=0.4708 | ValLoss=0.4435 ValAcc=0.3590 | LR=8.00e-05 | 27.1s
+[2026-07-23 22:51:10] INFO     training.trainer —   ✓ New best checkpoint saved (val_acc=0.3590)
+[2026-07-23 22:51:10] INFO     training.trainer — Training complete. Best val_acc=0.3590 | checkpoint=/home/muhammad/drowsiness_detection/checkpoints/best_face_model.pth
+[2026-07-23 22:51:10] INFO     __main__ — Face model done — best val_acc: 0.3590
+[2026-07-23 22:51:10] INFO     __main__ — Checkpoint: /home/muhammad/drowsiness_detection/checkpoints/best_face_model.pth
+[2026-07-23 22:56:37] INFO     __main__ — ============================================================
+[2026-07-23 22:56:37] INFO     __main__ — Driver Drowsiness Detection — Training
+[2026-07-23 22:56:37] INFO     __main__ — ============================================================
+[2026-07-23 22:56:37] INFO     __main__ — Device        : CPU
+[2026-07-23 22:56:37] INFO     __main__ — Backbone      : mobilenet_v3_large
+[2026-07-23 22:56:37] INFO     __main__ — Dataset root  : /home/muhammad/drowsiness_detection/dataset
+[2026-07-23 22:56:37] INFO     __main__ — Epochs        : 20
+[2026-07-23 22:56:37] INFO     __main__ — Batch size    : 16
+[2026-07-23 22:56:37] INFO     __main__ — Learning rate : 0.0002
+[2026-07-23 22:56:37] INFO     __main__ — AMP           : True
+[2026-07-23 22:56:37] INFO     __main__ — ============================================================
+[2026-07-23 22:56:37] INFO     __main__ — 
+--- Training Face / Full-Frame Model ---
+[2026-07-23 22:56:37] INFO     training.trainer — Training device: cpu
+[2026-07-23 22:56:37] INFO     training.trainer — Starting training: 20 epochs | face_model
+[2026-07-23 22:56:39] INFO     training.trainer — Epoch   1/20 | TrainLoss=0.5819 TrainAcc=0.3438 | ValLoss=0.2608 ValAcc=0.5000 | LR=8.00e-05 | 2.0s
+[2026-07-23 22:56:39] INFO     training.trainer —   ✓ New best checkpoint saved (val_acc=0.5000)
+[2026-07-23 22:56:41] INFO     training.trainer — Epoch   2/20 | TrainLoss=0.3674 TrainAcc=0.5625 | ValLoss=0.2594 ValAcc=0.5000 | LR=1.40e-04 | 1.9s
+[2026-07-23 22:56:43] INFO     training.trainer — Epoch   3/20 | TrainLoss=0.4124 TrainAcc=0.4062 | ValLoss=0.2537 ValAcc=0.3333 | LR=2.00e-04 | 2.0s
+[2026-07-23 22:56:45] INFO     training.trainer — Epoch   4/20 | TrainLoss=0.3480 TrainAcc=0.5938 | ValLoss=0.2446 ValAcc=0.5000 | LR=1.98e-04 | 1.9s
+[2026-07-23 22:56:47] INFO     training.trainer — Epoch   5/20 | TrainLoss=0.3074 TrainAcc=0.6562 | ValLoss=0.2343 ValAcc=0.5000 | LR=1.94e-04 | 1.8s
+[2026-07-23 22:56:49] INFO     training.trainer — Epoch   6/20 | TrainLoss=0.3086 TrainAcc=0.6250 | ValLoss=0.2218 ValAcc=0.6667 | LR=1.86e-04 | 1.9s
+[2026-07-23 22:56:49] INFO     training.trainer —   ✓ New best checkpoint saved (val_acc=0.6667)
+[2026-07-23 22:56:51] INFO     training.trainer — Epoch   7/20 | TrainLoss=0.3514 TrainAcc=0.5625 | ValLoss=0.2103 ValAcc=0.6667 | LR=1.75e-04 | 1.9s
+[2026-07-23 22:56:53] INFO     training.trainer — Epoch   8/20 | TrainLoss=0.3107 TrainAcc=0.6562 | ValLoss=0.2007 ValAcc=0.8333 | LR=1.62e-04 | 1.9s
+[2026-07-23 22:56:53] INFO     training.trainer —   ✓ New best checkpoint saved (val_acc=0.8333)
+[2026-07-23 22:56:55] INFO     training.trainer — Epoch   9/20 | TrainLoss=0.3101 TrainAcc=0.6562 | ValLoss=0.1897 ValAcc=0.8333 | LR=1.47e-04 | 1.9s
+[2026-07-23 22:56:56] INFO     training.trainer — Epoch  10/20 | TrainLoss=0.2238 TrainAcc=0.5938 | ValLoss=0.1817 ValAcc=1.0000 | LR=1.31e-04 | 1.8s
+[2026-07-23 22:56:56] INFO     training.trainer —   ✓ New best checkpoint saved (val_acc=1.0000)
+[2026-07-23 22:56:58] INFO     training.trainer — Epoch  11/20 | TrainLoss=0.3293 TrainAcc=0.5938 | ValLoss=0.1713 ValAcc=1.0000 | LR=1.14e-04 | 1.9s
+[2026-07-23 22:57:00] INFO     training.trainer — Epoch  12/20 | TrainLoss=0.2401 TrainAcc=0.6875 | ValLoss=0.1637 ValAcc=1.0000 | LR=9.62e-05 | 1.9s
+[2026-07-23 22:57:02] INFO     training.trainer — Epoch  13/20 | TrainLoss=0.1809 TrainAcc=0.7500 | ValLoss=0.1583 ValAcc=0.8333 | LR=7.90e-05 | 1.8s
+[2026-07-23 22:57:04] INFO     training.trainer — Epoch  14/20 | TrainLoss=0.2230 TrainAcc=0.7812 | ValLoss=0.1548 ValAcc=0.8333 | LR=6.27e-05 | 1.8s
+[2026-07-23 22:57:06] INFO     training.trainer — Epoch  15/20 | TrainLoss=0.1244 TrainAcc=0.8750 | ValLoss=0.1547 ValAcc=0.8333 | LR=4.77e-05 | 1.8s
+[2026-07-23 22:57:08] INFO     training.trainer — Epoch  16/20 | TrainLoss=0.2553 TrainAcc=0.7188 | ValLoss=0.1572 ValAcc=0.6667 | LR=3.48e-05 | 1.8s
+[2026-07-23 22:57:08] INFO     training.trainer — Early stopping at epoch 16 (no improvement for 6 epochs)
+[2026-07-23 22:57:08] INFO     training.trainer — Training complete. Best val_acc=1.0000 | checkpoint=/home/muhammad/drowsiness_detection/checkpoints/best_face_model.pth
+[2026-07-23 22:57:08] INFO     __main__ — Face model done — best val_acc: 1.0000
+[2026-07-23 22:57:08] INFO     __main__ — Checkpoint: /home/muhammad/drowsiness_detection/checkpoints/best_face_model.pth
+[2026-07-24 17:22:52] INFO     __main__ — ============================================================
+[2026-07-24 17:22:52] INFO     __main__ — Driver Drowsiness Detection — Training
+[2026-07-24 17:22:52] INFO     __main__ — ============================================================
+[2026-07-24 17:22:52] INFO     __main__ — Device        : CPU
+[2026-07-24 17:22:52] INFO     __main__ — Backbone      : mobilenet_v3_large
+[2026-07-24 17:22:52] INFO     __main__ — Dataset root  : /home/muhammad/drowsiness_detection/dataset
+[2026-07-24 17:22:52] INFO     __main__ — Epochs        : 1
+[2026-07-24 17:22:52] INFO     __main__ — Batch size    : 2
+[2026-07-24 17:22:52] INFO     __main__ — Learning rate : 0.0002
+[2026-07-24 17:22:52] INFO     __main__ — AMP           : False
+[2026-07-24 17:22:52] INFO     __main__ — ============================================================
+[2026-07-24 17:22:52] INFO     __main__ — 
+--- Training Face / Full-Frame Model ---
+[2026-07-24 17:22:52] INFO     training.trainer — Training device: cpu
+[2026-07-24 17:25:28] INFO     __main__ — ============================================================
+[2026-07-24 17:25:28] INFO     __main__ — Driver Drowsiness Detection — Training
+[2026-07-24 17:25:28] INFO     __main__ — ============================================================
+[2026-07-24 17:25:28] INFO     __main__ — Device        : CPU
+[2026-07-24 17:25:28] INFO     __main__ — Backbone      : mobilenet_v3_large
+[2026-07-24 17:25:28] INFO     __main__ — Dataset root  : /home/muhammad/drowsiness_detection/dataset
+[2026-07-24 17:25:28] INFO     __main__ — Epochs        : 1
+[2026-07-24 17:25:28] INFO     __main__ — Batch size    : 2
+[2026-07-24 17:25:28] INFO     __main__ — Learning rate : 0.0002
+[2026-07-24 17:25:28] INFO     __main__ — AMP           : False
+[2026-07-24 17:25:28] INFO     __main__ — ============================================================
+[2026-07-24 17:25:28] INFO     __main__ — 
+--- Training Face / Full-Frame Model ---
+[2026-07-24 17:25:28] INFO     training.trainer — Training device: cpu
+[2026-07-24 17:25:29] INFO     training.trainer — Starting training: 1 epochs | face_model
+[2026-07-24 17:25:55] INFO     training.trainer — Epoch   1/1 | TrainLoss=0.1753 TrainAcc=0.7962 | ValLoss=0.2251 ValAcc=0.6575 | LR=8.00e-05 | 26.1s
+[2026-07-24 17:26:36] INFO     __main__ — ============================================================
+[2026-07-24 17:26:36] INFO     __main__ — Driver Drowsiness Detection — Training
+[2026-07-24 17:26:36] INFO     __main__ — ============================================================
+[2026-07-24 17:26:36] INFO     __main__ — Device        : CPU
+[2026-07-24 17:26:36] INFO     __main__ — Backbone      : mobilenet_v3_large
+[2026-07-24 17:26:36] INFO     __main__ — Dataset root  : /home/muhammad/drowsiness_detection/dataset
+[2026-07-24 17:26:36] INFO     __main__ — Epochs        : 20
+[2026-07-24 17:26:36] INFO     __main__ — Batch size    : 16
+[2026-07-24 17:26:36] INFO     __main__ — Learning rate : 0.0002
+[2026-07-24 17:26:36] INFO     __main__ — AMP           : True
+[2026-07-24 17:26:36] INFO     __main__ — ============================================================
+[2026-07-24 17:26:36] INFO     __main__ — 
+--- Training Face / Full-Frame Model ---
+[2026-07-24 17:26:36] INFO     training.trainer — Training device: cpu
+[2026-07-24 17:26:36] INFO     training.trainer — Starting training: 20 epochs | face_model
+[2026-07-24 17:27:03] INFO     training.trainer — Epoch   1/20 | TrainLoss=0.2273 TrainAcc=0.6647 | ValLoss=0.2100 ValAcc=0.7260 | LR=8.00e-05 | 27.1s
+[2026-07-24 17:27:03] INFO     training.trainer —   ✓ New best checkpoint saved (val_acc=0.7260)
+[2026-07-24 17:27:34] INFO     training.trainer — Epoch   2/20 | TrainLoss=0.1728 TrainAcc=0.7993 | ValLoss=0.2238 ValAcc=0.6644 | LR=1.40e-04 | 30.6s
+[2026-07-24 17:28:04] INFO     training.trainer — Epoch   3/20 | TrainLoss=0.1381 TrainAcc=0.8425 | ValLoss=0.1369 ValAcc=0.7877 | LR=2.00e-04 | 30.4s
+[2026-07-24 17:28:04] INFO     training.trainer —   ✓ New best checkpoint saved (val_acc=0.7877)
+[2026-07-24 17:28:35] INFO     training.trainer — Epoch   4/20 | TrainLoss=0.1135 TrainAcc=0.8726 | ValLoss=0.2710 ValAcc=0.7329 | LR=1.98e-04 | 30.4s
+[2026-07-24 17:29:05] INFO     training.trainer — Epoch   5/20 | TrainLoss=0.1029 TrainAcc=0.8942 | ValLoss=0.0893 ValAcc=0.9110 | LR=1.94e-04 | 30.3s
+[2026-07-24 17:29:05] INFO     training.trainer —   ✓ New best checkpoint saved (val_acc=0.9110)
+[2026-07-24 17:29:35] INFO     training.trainer — Epoch   6/20 | TrainLoss=0.1081 TrainAcc=0.8738 | ValLoss=0.3674 ValAcc=0.6986 | LR=1.86e-04 | 30.3s
+[2026-07-24 17:30:06] INFO     training.trainer — Epoch   7/20 | TrainLoss=0.1155 TrainAcc=0.8774 | ValLoss=0.2431 ValAcc=0.7534 | LR=1.75e-04 | 30.7s
+[2026-07-24 17:30:36] INFO     training.trainer — Epoch   8/20 | TrainLoss=0.0927 TrainAcc=0.9087 | ValLoss=0.2579 ValAcc=0.7466 | LR=1.62e-04 | 30.4s
+[2026-07-24 17:31:07] INFO     training.trainer — Epoch   9/20 | TrainLoss=0.0924 TrainAcc=0.9171 | ValLoss=0.0601 ValAcc=0.9452 | LR=1.47e-04 | 30.7s
+[2026-07-24 17:31:07] INFO     training.trainer —   ✓ New best checkpoint saved (val_acc=0.9452)
+[2026-07-24 17:31:37] INFO     training.trainer — Epoch  10/20 | TrainLoss=0.0913 TrainAcc=0.8966 | ValLoss=0.1731 ValAcc=0.8493 | LR=1.31e-04 | 30.2s
+[2026-07-24 17:32:08] INFO     training.trainer — Epoch  11/20 | TrainLoss=0.0931 TrainAcc=0.9159 | ValLoss=0.3294 ValAcc=0.7055 | LR=1.14e-04 | 30.7s
+[2026-07-24 17:32:39] INFO     training.trainer — Epoch  12/20 | TrainLoss=0.0905 TrainAcc=0.9207 | ValLoss=0.3129 ValAcc=0.7123 | LR=9.62e-05 | 30.6s
+[2026-07-24 17:33:09] INFO     training.trainer — Epoch  13/20 | TrainLoss=0.0824 TrainAcc=0.9087 | ValLoss=0.2488 ValAcc=0.7397 | LR=7.90e-05 | 30.2s
+[2026-07-24 17:33:39] INFO     training.trainer — Epoch  14/20 | TrainLoss=0.0854 TrainAcc=0.9267 | ValLoss=0.3506 ValAcc=0.7123 | LR=6.27e-05 | 30.5s
+[2026-07-24 17:34:09] INFO     training.trainer — Epoch  15/20 | TrainLoss=0.0875 TrainAcc=0.9231 | ValLoss=0.3177 ValAcc=0.7123 | LR=4.77e-05 | 29.9s
+[2026-07-24 17:34:09] INFO     training.trainer — Early stopping at epoch 15 (no improvement for 6 epochs)
+[2026-07-24 17:34:09] INFO     training.trainer — Training complete. Best val_acc=0.9452 | checkpoint=/home/muhammad/drowsiness_detection/checkpoints/best_face_model.pth
+[2026-07-24 17:34:09] INFO     __main__ — Face model done — best val_acc: 0.9452
+[2026-07-24 17:34:09] INFO     __main__ — Checkpoint: /home/muhammad/drowsiness_detection/checkpoints/best_face_model.pth
+[2026-07-25 11:20:48] INFO     __main__ — ============================================================
+[2026-07-25 11:20:48] INFO     __main__ — Driver Drowsiness Detection — Training
+[2026-07-25 11:20:48] INFO     __main__ — ============================================================
+[2026-07-25 11:20:48] INFO     __main__ — Device        : CPU
+[2026-07-25 11:20:48] INFO     __main__ — Backbone      : mobilenet_v3_large
+[2026-07-25 11:20:48] INFO     __main__ — Dataset root  : /home/muhammad/drowsiness_detection/dataset
+[2026-07-25 11:20:48] INFO     __main__ — Epochs        : 20
+[2026-07-25 11:20:48] INFO     __main__ — Batch size    : 16
+[2026-07-25 11:20:48] INFO     __main__ — Learning rate : 0.0002
+[2026-07-25 11:20:48] INFO     __main__ — AMP           : True
+[2026-07-25 11:20:48] INFO     __main__ — ============================================================
+[2026-07-25 11:20:48] INFO     __main__ — 
+--- Training Face / Full-Frame Model ---
+[2026-07-25 11:20:48] INFO     training.trainer — Training device: cpu
+[2026-07-25 11:20:48] INFO     training.trainer — Starting training: 20 epochs | face_model
+[2026-07-25 11:21:18] INFO     training.trainer — Epoch   1/20 | TrainLoss=0.2280 TrainAcc=0.6502 | ValLoss=0.2198 ValAcc=0.5479 | LR=8.00e-05 | 30.4s
+[2026-07-25 11:21:18] INFO     training.trainer —   ✓ New best checkpoint saved (val_acc=0.5479)
+[2026-07-25 11:21:53] INFO     training.trainer — Epoch   2/20 | TrainLoss=0.1546 TrainAcc=0.8630 | ValLoss=0.1220 ValAcc=0.8082 | LR=1.40e-04 | 34.9s
+[2026-07-25 11:21:53] INFO     training.trainer —   ✓ New best checkpoint saved (val_acc=0.8082)
+[2026-07-25 11:22:28] INFO     training.trainer — Epoch   3/20 | TrainLoss=0.1106 TrainAcc=0.8942 | ValLoss=0.2713 ValAcc=0.6986 | LR=2.00e-04 | 34.4s
+[2026-07-25 11:23:02] INFO     training.trainer — Epoch   4/20 | TrainLoss=0.1183 TrainAcc=0.8786 | ValLoss=0.0674 ValAcc=0.9315 | LR=1.98e-04 | 34.4s
+[2026-07-25 11:23:02] INFO     training.trainer —   ✓ New best checkpoint saved (val_acc=0.9315)
+[2026-07-25 11:23:36] INFO     training.trainer — Epoch   5/20 | TrainLoss=0.1071 TrainAcc=0.8834 | ValLoss=0.2221 ValAcc=0.7671 | LR=1.94e-04 | 34.4s
+[2026-07-25 11:24:11] INFO     training.trainer — Epoch   6/20 | TrainLoss=0.1143 TrainAcc=0.8702 | ValLoss=0.5511 ValAcc=0.5000 | LR=1.86e-04 | 34.6s
+[2026-07-25 11:24:46] INFO     training.trainer — Epoch   7/20 | TrainLoss=0.1064 TrainAcc=0.9014 | ValLoss=0.1779 ValAcc=0.8630 | LR=1.75e-04 | 34.5s
+[2026-07-25 11:25:20] INFO     training.trainer — Epoch   8/20 | TrainLoss=0.1021 TrainAcc=0.8966 | ValLoss=0.1733 ValAcc=0.8356 | LR=1.62e-04 | 34.7s
+[2026-07-25 11:25:55] INFO     training.trainer — Epoch   9/20 | TrainLoss=0.1098 TrainAcc=0.8762 | ValLoss=0.2203 ValAcc=0.7466 | LR=1.47e-04 | 34.6s
+[2026-07-25 11:26:29] INFO     training.trainer — Epoch  10/20 | TrainLoss=0.0959 TrainAcc=0.8966 | ValLoss=0.2793 ValAcc=0.6986 | LR=1.31e-04 | 34.6s
+[2026-07-25 11:26:29] INFO     training.trainer — Early stopping at epoch 10 (no improvement for 6 epochs)
+[2026-07-25 11:26:29] INFO     training.trainer — Training complete. Best val_acc=0.9315 | checkpoint=/home/muhammad/drowsiness_detection/checkpoints/best_face_model.pth
+[2026-07-25 11:26:29] INFO     __main__ — Face model done — best val_acc: 0.9315
+[2026-07-25 11:26:29] INFO     __main__ — Checkpoint: /home/muhammad/drowsiness_detection/checkpoints/best_face_model.pth
+[2026-07-25 12:31:33] INFO     __main__ — ============================================================
+[2026-07-25 12:31:33] INFO     __main__ — Driver Drowsiness Detection — Training
+[2026-07-25 12:31:33] INFO     __main__ — ============================================================
+[2026-07-25 12:31:33] INFO     __main__ — Device        : CPU
+[2026-07-25 12:31:33] INFO     __main__ — Backbone      : mobilenet_v3_large
+[2026-07-25 12:31:33] INFO     __main__ — Dataset root  : /home/muhammad/drowsiness_detection/dataset
+[2026-07-25 12:31:33] INFO     __main__ — Epochs        : 20
+[2026-07-25 12:31:33] INFO     __main__ — Batch size    : 16
+[2026-07-25 12:31:33] INFO     __main__ — Learning rate : 0.0002
+[2026-07-25 12:31:33] INFO     __main__ — AMP           : True
+[2026-07-25 12:31:33] INFO     __main__ — ============================================================
+[2026-07-25 12:31:33] INFO     __main__ — 
+--- Training Face / Full-Frame Model ---
+[2026-07-25 12:31:33] INFO     training.trainer — Training device: cpu
+[2026-07-25 12:31:33] INFO     training.trainer — Starting training: 20 epochs | face_model
+[2026-07-25 12:32:34] INFO     training.trainer — Epoch   1/20 | TrainLoss=0.2369 TrainAcc=0.5853 | ValLoss=0.2309 ValAcc=0.6507 | LR=8.00e-05 | 61.9s
+[2026-07-25 12:32:34] INFO     training.trainer —   ✓ New best checkpoint saved (val_acc=0.6507)
+[2026-07-25 12:33:40] INFO     training.trainer — Epoch   2/20 | TrainLoss=0.2245 TrainAcc=0.6543 | ValLoss=0.2176 ValAcc=0.6691 | LR=1.40e-04 | 65.3s
+[2026-07-25 12:33:40] INFO     training.trainer —   ✓ New best checkpoint saved (val_acc=0.6691)
+[2026-07-25 12:34:45] INFO     training.trainer — Epoch   3/20 | TrainLoss=0.2173 TrainAcc=0.6758 | ValLoss=0.2093 ValAcc=0.6912 | LR=2.00e-04 | 65.2s
+[2026-07-25 12:34:45] INFO     training.trainer —   ✓ New best checkpoint saved (val_acc=0.6912)
+[2026-07-25 12:35:50] INFO     training.trainer — Epoch   4/20 | TrainLoss=0.2073 TrainAcc=0.6901 | ValLoss=0.3189 ValAcc=0.5772 | LR=1.98e-04 | 65.3s
+[2026-07-25 12:36:56] INFO     training.trainer — Epoch   5/20 | TrainLoss=0.2084 TrainAcc=0.6914 | ValLoss=0.2079 ValAcc=0.6581 | LR=1.94e-04 | 65.2s
+[2026-07-25 12:38:02] INFO     training.trainer — Epoch   6/20 | TrainLoss=0.1910 TrainAcc=0.7331 | ValLoss=0.1807 ValAcc=0.7647 | LR=1.86e-04 | 66.3s
+[2026-07-25 12:38:02] INFO     training.trainer —   ✓ New best checkpoint saved (val_acc=0.7647)
+[2026-07-25 12:39:08] INFO     training.trainer — Epoch   7/20 | TrainLoss=0.1907 TrainAcc=0.7090 | ValLoss=0.1833 ValAcc=0.7463 | LR=1.75e-04 | 66.2s
+[2026-07-25 12:40:14] INFO     training.trainer — Epoch   8/20 | TrainLoss=0.1770 TrainAcc=0.7487 | ValLoss=0.2218 ValAcc=0.6654 | LR=1.62e-04 | 66.4s
+[2026-07-25 12:41:22] INFO     training.trainer — Epoch   9/20 | TrainLoss=0.1829 TrainAcc=0.7402 | ValLoss=0.2425 ValAcc=0.6250 | LR=1.47e-04 | 67.5s
+[2026-07-25 12:42:29] INFO     training.trainer — Epoch  10/20 | TrainLoss=0.1733 TrainAcc=0.7630 | ValLoss=0.1605 ValAcc=0.8015 | LR=1.31e-04 | 67.0s
+[2026-07-25 12:42:29] INFO     training.trainer —   ✓ New best checkpoint saved (val_acc=0.8015)
+[2026-07-25 12:43:36] INFO     training.trainer — Epoch  11/20 | TrainLoss=0.1754 TrainAcc=0.7591 | ValLoss=0.1937 ValAcc=0.7022 | LR=1.14e-04 | 66.9s
+[2026-07-25 12:44:44] INFO     training.trainer — Epoch  12/20 | TrainLoss=0.1705 TrainAcc=0.7663 | ValLoss=0.1630 ValAcc=0.8051 | LR=9.62e-05 | 67.8s
+[2026-07-25 12:44:44] INFO     training.trainer —   ✓ New best checkpoint saved (val_acc=0.8051)
+[2026-07-25 12:45:52] INFO     training.trainer — Epoch  13/20 | TrainLoss=0.1692 TrainAcc=0.7689 | ValLoss=0.1699 ValAcc=0.7757 | LR=7.90e-05 | 68.1s
+[2026-07-25 12:46:59] INFO     training.trainer — Epoch  14/20 | TrainLoss=0.1597 TrainAcc=0.7930 | ValLoss=0.1715 ValAcc=0.7721 | LR=6.27e-05 | 66.8s
+[2026-07-25 12:48:06] INFO     training.trainer — Epoch  15/20 | TrainLoss=0.1604 TrainAcc=0.7812 | ValLoss=0.1725 ValAcc=0.7941 | LR=4.77e-05 | 67.0s
+[2026-07-25 12:49:13] INFO     training.trainer — Epoch  16/20 | TrainLoss=0.1675 TrainAcc=0.7858 | ValLoss=0.1801 ValAcc=0.7831 | LR=3.48e-05 | 67.4s
+[2026-07-25 12:50:20] INFO     training.trainer — Epoch  17/20 | TrainLoss=0.1625 TrainAcc=0.7826 | ValLoss=0.1703 ValAcc=0.7831 | LR=2.42e-05 | 67.4s
+[2026-07-25 12:51:29] INFO     training.trainer — Epoch  18/20 | TrainLoss=0.1624 TrainAcc=0.7728 | ValLoss=0.1643 ValAcc=0.7904 | LR=1.64e-05 | 68.1s
+[2026-07-25 12:51:29] INFO     training.trainer — Early stopping at epoch 18 (no improvement for 6 epochs)
+[2026-07-25 12:51:29] INFO     training.trainer — Training complete. Best val_acc=0.8051 | checkpoint=/home/muhammad/drowsiness_detection/checkpoints/best_face_model.pth
+[2026-07-25 12:51:29] INFO     __main__ — Face model done — best val_acc: 0.8051
+[2026-07-25 12:51:29] INFO     __main__ — Checkpoint: /home/muhammad/drowsiness_detection/checkpoints/best_face_model.pth
+[2026-07-25 15:41:54] INFO     __main__ — ============================================================
+[2026-07-25 15:41:54] INFO     __main__ — Driver Drowsiness Detection — Training
+[2026-07-25 15:41:54] INFO     __main__ — ============================================================
+[2026-07-25 15:41:54] INFO     __main__ — Device        : CPU
+[2026-07-25 15:41:54] INFO     __main__ — Backbone      : mobilenet_v3_large
+[2026-07-25 15:41:54] INFO     __main__ — Dataset root  : /home/muhammad/drowsiness_detection/dataset
+[2026-07-25 15:41:54] INFO     __main__ — Epochs        : 20
+[2026-07-25 15:41:54] INFO     __main__ — Batch size    : 16
+[2026-07-25 15:41:54] INFO     __main__ — Learning rate : 0.0002
+[2026-07-25 15:41:54] INFO     __main__ — AMP           : True
+[2026-07-25 15:41:54] INFO     __main__ — ============================================================
+[2026-07-25 15:41:54] INFO     __main__ — 
+--- Training Face / Full-Frame Model ---
+[2026-07-25 15:41:54] INFO     training.trainer — Training device: cpu
+[2026-07-25 15:41:54] INFO     training.trainer — Starting training: 20 epochs | face_model
+[2026-07-25 15:44:28] INFO     training.trainer — Epoch   1/20 | TrainLoss=0.1603 TrainAcc=0.7983 | ValLoss=0.2295 ValAcc=0.5948 | LR=8.00e-05 | 153.6s
+[2026-07-25 15:44:28] INFO     training.trainer —   ✓ New best checkpoint saved (val_acc=0.5948)
+[2026-07-25 15:46:50] INFO     training.trainer — Epoch   2/20 | TrainLoss=0.0939 TrainAcc=0.9008 | ValLoss=0.1105 ValAcc=0.9858 | LR=1.40e-04 | 142.7s
+[2026-07-25 15:46:50] INFO     training.trainer —   ✓ New best checkpoint saved (val_acc=0.9858)
+[2026-07-25 15:49:11] INFO     training.trainer — Epoch   3/20 | TrainLoss=0.0885 TrainAcc=0.9150 | ValLoss=0.1247 ValAcc=0.9076 | LR=2.00e-04 | 140.9s
+[2026-07-25 15:51:31] INFO     training.trainer — Epoch   4/20 | TrainLoss=0.0787 TrainAcc=0.9200 | ValLoss=0.0434 ValAcc=0.9905 | LR=1.98e-04 | 139.9s
+[2026-07-25 15:51:31] INFO     training.trainer —   ✓ New best checkpoint saved (val_acc=0.9905)
+[2026-07-25 15:53:52] INFO     training.trainer — Epoch   5/20 | TrainLoss=0.0797 TrainAcc=0.9190 | ValLoss=0.0907 ValAcc=0.9265 | LR=1.94e-04 | 140.6s
+[2026-07-25 15:56:15] INFO     training.trainer — Epoch   6/20 | TrainLoss=0.0736 TrainAcc=0.9220 | ValLoss=0.0847 ValAcc=0.9455 | LR=1.86e-04 | 142.8s
+[2026-07-25 15:58:56] INFO     training.trainer — Epoch   7/20 | TrainLoss=0.0764 TrainAcc=0.9125 | ValLoss=0.0363 ValAcc=0.9787 | LR=1.75e-04 | 161.3s
+[2026-07-25 16:00:46] INFO     __main__ — ============================================================
+[2026-07-25 16:00:46] INFO     __main__ — Driver Drowsiness Detection — Training
+[2026-07-25 16:00:46] INFO     __main__ — ============================================================
+[2026-07-25 16:00:46] INFO     __main__ — Device        : CPU
+[2026-07-25 16:00:46] INFO     __main__ — Backbone      : mobilenet_v3_large
+[2026-07-25 16:00:46] INFO     __main__ — Dataset root  : /home/muhammad/drowsiness_detection/dataset
+[2026-07-25 16:00:46] INFO     __main__ — Epochs        : 20
+[2026-07-25 16:00:46] INFO     __main__ — Batch size    : 16
+[2026-07-25 16:00:46] INFO     __main__ — Learning rate : 0.0002
+[2026-07-25 16:00:46] INFO     __main__ — AMP           : True
+[2026-07-25 16:00:46] INFO     __main__ — ============================================================
+[2026-07-25 16:00:46] INFO     __main__ — 
+--- Training Face / Full-Frame Model ---
+[2026-07-25 16:00:46] INFO     training.trainer — Training device: cpu
+[2026-07-25 16:00:46] INFO     training.trainer — Starting training: 20 epochs | face_model
+[2026-07-25 16:03:02] INFO     training.trainer — Epoch   1/20 | TrainLoss=0.1494 TrainAcc=0.8214 | ValLoss=0.1973 ValAcc=0.8235 | LR=8.00e-05 | 135.8s
+[2026-07-25 16:03:02] INFO     training.trainer —   ✓ New best checkpoint saved (val_acc=0.8235)
+[2026-07-25 16:05:24] INFO     training.trainer — Epoch   2/20 | TrainLoss=0.1006 TrainAcc=0.8943 | ValLoss=0.2240 ValAcc=0.6667 | LR=1.40e-04 | 142.0s
+[2026-07-25 16:07:35] INFO     training.trainer — Epoch   3/20 | TrainLoss=0.0913 TrainAcc=0.8982 | ValLoss=0.0924 ValAcc=0.9085 | LR=2.00e-04 | 130.4s
+[2026-07-25 16:07:35] INFO     training.trainer —   ✓ New best checkpoint saved (val_acc=0.9085)
+[2026-07-25 16:09:44] INFO     training.trainer — Epoch   4/20 | TrainLoss=0.0881 TrainAcc=0.9031 | ValLoss=0.2269 ValAcc=0.7451 | LR=1.98e-04 | 129.0s
+[2026-07-25 16:11:54] INFO     training.trainer — Epoch   5/20 | TrainLoss=0.0736 TrainAcc=0.9305 | ValLoss=0.1383 ValAcc=0.8431 | LR=1.94e-04 | 130.6s
+[2026-07-25 16:14:04] INFO     training.trainer — Epoch   6/20 | TrainLoss=0.0793 TrainAcc=0.9172 | ValLoss=0.0867 ValAcc=0.9020 | LR=1.86e-04 | 129.5s
+[2026-07-25 16:16:12] INFO     training.trainer — Epoch   7/20 | TrainLoss=0.0699 TrainAcc=0.9297 | ValLoss=0.0434 ValAcc=1.0000 | LR=1.75e-04 | 128.7s
+[2026-07-25 16:16:12] INFO     training.trainer —   ✓ New best checkpoint saved (val_acc=1.0000)
+[2026-07-25 16:18:22] INFO     training.trainer — Epoch   8/20 | TrainLoss=0.0643 TrainAcc=0.9284 | ValLoss=0.1504 ValAcc=0.8105 | LR=1.62e-04 | 130.0s
+[2026-07-25 16:20:33] INFO     training.trainer — Epoch   9/20 | TrainLoss=0.0647 TrainAcc=0.9323 | ValLoss=0.0410 ValAcc=0.9804 | LR=1.47e-04 | 130.8s
+[2026-07-25 16:22:46] INFO     training.trainer — Epoch  10/20 | TrainLoss=0.0579 TrainAcc=0.9482 | ValLoss=0.0501 ValAcc=0.9542 | LR=1.31e-04 | 132.4s
+[2026-07-25 16:24:57] INFO     training.trainer — Epoch  11/20 | TrainLoss=0.0653 TrainAcc=0.9375 | ValLoss=0.0391 ValAcc=1.0000 | LR=1.14e-04 | 131.0s
+[2026-07-25 16:27:07] INFO     training.trainer — Epoch  12/20 | TrainLoss=0.0654 TrainAcc=0.9328 | ValLoss=0.0537 ValAcc=0.9542 | LR=9.62e-05 | 130.2s
+[2026-07-25 16:29:18] INFO     training.trainer — Epoch  13/20 | TrainLoss=0.0594 TrainAcc=0.9531 | ValLoss=0.0541 ValAcc=0.9412 | LR=7.90e-05 | 131.1s
+[2026-07-25 16:29:18] INFO     training.trainer — Early stopping at epoch 13 (no improvement for 6 epochs)
+[2026-07-25 16:29:18] INFO     training.trainer — Training complete. Best val_acc=1.0000 | checkpoint=/home/muhammad/drowsiness_detection/checkpoints/best_face_model.pth
+[2026-07-25 16:29:18] INFO     __main__ — Face model done — best val_acc: 1.0000
+[2026-07-25 16:29:18] INFO     __main__ — Checkpoint: /home/muhammad/drowsiness_detection/checkpoints/best_face_model.pth
+[2026-07-26 10:03:19] INFO     __main__ — ============================================================
+[2026-07-26 10:03:19] INFO     __main__ — Driver Drowsiness Detection — Training
+[2026-07-26 10:03:19] INFO     __main__ — ============================================================
+[2026-07-26 10:03:19] INFO     __main__ — Device        : CPU
+[2026-07-26 10:03:19] INFO     __main__ — Backbone      : mobilenet_v3_large
+[2026-07-26 10:03:19] INFO     __main__ — Dataset root  : /home/muhammad/drowsiness_detection/dataset
+[2026-07-26 10:03:19] INFO     __main__ — Epochs        : 20
+[2026-07-26 10:03:19] INFO     __main__ — Batch size    : 16
+[2026-07-26 10:03:19] INFO     __main__ — Learning rate : 0.0002
+[2026-07-26 10:03:19] INFO     __main__ — AMP           : True
+[2026-07-26 10:03:19] INFO     __main__ — ============================================================
+[2026-07-26 10:03:19] INFO     __main__ — 
+--- Training Face / Full-Frame Model ---
+[2026-07-26 10:03:19] INFO     training.trainer — Training device: cpu
+[2026-07-26 10:03:19] INFO     training.trainer — Starting training: 20 epochs | face_model
+[2026-07-26 10:05:30] INFO     training.trainer — Epoch   1/20 | TrainLoss=0.1587 TrainAcc=0.7940 | ValLoss=0.2219 ValAcc=0.6800 | LR=8.00e-05 | 130.7s
+[2026-07-26 10:05:30] INFO     training.trainer —   ✓ New best checkpoint saved (val_acc=0.6800)
+[2026-07-26 10:07:45] INFO     training.trainer — Epoch   2/20 | TrainLoss=0.0998 TrainAcc=0.8903 | ValLoss=0.1513 ValAcc=0.8450 | LR=1.40e-04 | 134.8s
+[2026-07-26 10:07:45] INFO     training.trainer —   ✓ New best checkpoint saved (val_acc=0.8450)
+[2026-07-26 10:10:00] INFO     training.trainer — Epoch   3/20 | TrainLoss=0.0892 TrainAcc=0.9030 | ValLoss=0.0859 ValAcc=0.9350 | LR=2.00e-04 | 135.6s
+[2026-07-26 10:10:00] INFO     training.trainer —   ✓ New best checkpoint saved (val_acc=0.9350)
+[2026-07-26 10:12:16] INFO     training.trainer — Epoch   4/20 | TrainLoss=0.0795 TrainAcc=0.9182 | ValLoss=0.0983 ValAcc=0.8200 | LR=1.98e-04 | 135.7s
+[2026-07-26 10:14:32] INFO     training.trainer — Epoch   5/20 | TrainLoss=0.0838 TrainAcc=0.9109 | ValLoss=0.1143 ValAcc=0.8500 | LR=1.94e-04 | 136.2s
+[2026-07-26 10:16:48] INFO     training.trainer — Epoch   6/20 | TrainLoss=0.0734 TrainAcc=0.9309 | ValLoss=0.1385 ValAcc=0.7750 | LR=1.86e-04 | 136.0s
+[2026-07-26 10:19:05] INFO     training.trainer — Epoch   7/20 | TrainLoss=0.0726 TrainAcc=0.9264 | ValLoss=0.0850 ValAcc=0.8750 | LR=1.75e-04 | 136.5s
+[2026-07-26 10:21:22] INFO     training.trainer — Epoch   8/20 | TrainLoss=0.0687 TrainAcc=0.9367 | ValLoss=0.0517 ValAcc=0.9850 | LR=1.62e-04 | 137.2s
+[2026-07-26 10:21:22] INFO     training.trainer —   ✓ New best checkpoint saved (val_acc=0.9850)
+[2026-07-26 10:23:40] INFO     training.trainer — Epoch   9/20 | TrainLoss=0.0641 TrainAcc=0.9306 | ValLoss=0.1540 ValAcc=0.8150 | LR=1.47e-04 | 137.7s
+[2026-07-26 10:25:58] INFO     training.trainer — Epoch  10/20 | TrainLoss=0.0681 TrainAcc=0.9267 | ValLoss=0.0421 ValAcc=0.9650 | LR=1.31e-04 | 138.0s
+[2026-07-26 10:28:16] INFO     training.trainer — Epoch  11/20 | TrainLoss=0.0620 TrainAcc=0.9412 | ValLoss=0.0355 ValAcc=0.9950 | LR=1.14e-04 | 138.2s
+[2026-07-26 10:28:16] INFO     training.trainer —   ✓ New best checkpoint saved (val_acc=0.9950)
+[2026-07-26 10:30:34] INFO     training.trainer — Epoch  12/20 | TrainLoss=0.0673 TrainAcc=0.9296 | ValLoss=0.0465 ValAcc=0.9800 | LR=9.62e-05 | 137.8s
+[2026-07-26 10:32:43] INFO     training.trainer — Epoch  13/20 | TrainLoss=0.0571 TrainAcc=0.9459 | ValLoss=0.1233 ValAcc=0.8300 | LR=7.90e-05 | 128.8s
+[2026-07-26 10:34:43] INFO     training.trainer — Epoch  14/20 | TrainLoss=0.0582 TrainAcc=0.9480 | ValLoss=0.0635 ValAcc=0.9100 | LR=6.27e-05 | 120.6s
+[2026-07-26 10:36:41] INFO     training.trainer — Epoch  15/20 | TrainLoss=0.0622 TrainAcc=0.9404 | ValLoss=0.0378 ValAcc=0.9900 | LR=4.77e-05 | 118.3s
+[2026-07-26 10:38:40] INFO     training.trainer — Epoch  16/20 | TrainLoss=0.0606 TrainAcc=0.9404 | ValLoss=0.0325 ValAcc=1.0000 | LR=3.48e-05 | 118.8s
+[2026-07-26 10:38:40] INFO     training.trainer —   ✓ New best checkpoint saved (val_acc=1.0000)
+[2026-07-26 10:40:41] INFO     training.trainer — Epoch  17/20 | TrainLoss=0.0541 TrainAcc=0.9475 | ValLoss=0.0507 ValAcc=0.9500 | LR=2.42e-05 | 121.1s
+[2026-07-26 10:42:41] INFO     training.trainer — Epoch  18/20 | TrainLoss=0.0535 TrainAcc=0.9599 | ValLoss=0.0360 ValAcc=0.9800 | LR=1.64e-05 | 119.5s
+[2026-07-26 10:44:41] INFO     training.trainer — Epoch  19/20 | TrainLoss=0.0608 TrainAcc=0.9473 | ValLoss=0.0354 ValAcc=0.9800 | LR=1.16e-05 | 119.9s
+[2026-07-26 10:46:42] INFO     training.trainer — Epoch  20/20 | TrainLoss=0.0599 TrainAcc=0.9517 | ValLoss=0.0381 ValAcc=0.9750 | LR=1.00e-05 | 121.1s
+[2026-07-26 10:46:42] INFO     training.trainer — Training complete. Best val_acc=1.0000 | checkpoint=/home/muhammad/drowsiness_detection/checkpoints/best_face_model.pth
+[2026-07-26 10:46:42] INFO     __main__ — Face model done — best val_acc: 1.0000
+[2026-07-26 10:46:42] INFO     __main__ — Checkpoint: /home/muhammad/drowsiness_detection/checkpoints/best_face_model.pth
