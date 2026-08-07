@@ -156,8 +156,7 @@ bash setup_ubuntu.sh
 ```bash
 git clone https://github.com/MuhammadAsadUllah27/Driver-Drowsiness-Detection.git
 cd Driver-Drowsiness-Detection
-python -m venv .venv
-source .venv/bin/activate          # Windows: .venv\Scripts\activate
+source venv/bin/activate          # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
