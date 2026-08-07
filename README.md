@@ -54,14 +54,6 @@ A **personal EAR baseline** is computed during a short calibration window (defau
 
 ```
 Driver-Drowsiness-Detection/
-├── detect.py           # Entry point — real-time webcam detection
-├── __init__.py
-├── evaluate.py             # Offline evaluation against annotated video
-├── train.py                # (Optional) supervised calibration trainer
-├── requirements.txt        # Minimal CPU-only dependency list
-├── setup_ubuntu.sh         # One-shot Ubuntu setup script
-├── dataset.zip             # Bundled sample dataset
-│
 ├── config/                 # Centralised configuration dataclasses
 │   ├── __init__.py
 │   ├── config.py
@@ -114,7 +106,7 @@ Driver-Drowsiness-Detection/
 │   └── best_face_model.pth
 ├── logs/                   # Runtime and evaluation logs
 │   ├── train.py
-│   ├── inference.py
+│   └── inference.py
 ├── tests/
 │   ├── __init__.py
 │   ├── test_dataset_layout.py
@@ -128,6 +120,16 @@ Driver-Drowsiness-Detection/
 │   │   ├── test_state_machine.cpython-310-pytest-9.1.1
 │   │   ├── test_training_defaults.cpython-310-pytest-8.1.1
 │   │   └── test_training_defaults.cpython-310-pytest-9.1.1
+├── __pycache__/
+│   ├── __init__.cpython-310
+│   └── train.cpython-310
+├── detect.py           # Entry point — real-time webcam detection
+├── __init__.py
+├── evaluate.py             # Offline evaluation against annotated video
+├── train.py                # (Optional) supervised calibration trainer
+├── requirements.txt        # Minimal CPU-only dependency list
+├── setup_ubuntu.sh         # One-shot Ubuntu setup script
+├── dataset.zip             # Bundled sample dataset
 └── readme.md                  # Unit and integration tests
 ```
 
