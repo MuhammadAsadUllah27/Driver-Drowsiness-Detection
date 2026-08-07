@@ -63,10 +63,15 @@ Driver-Drowsiness-Detection/
 ├── dataset.zip             # Bundled sample dataset
 │
 ├── config/                 # Centralised configuration dataclasses
+│   ├── __init__.py
+│   ├── config.py
+│   └── __pycache__/
+│   │   ├── __init__.cpython-310
+│   │   └── config.cpython-310
 ├── models/                 # DrowsinessDetector, FusionWeights, architectures
 │   ├── __init__.py
 │   ├── architectures.py
-│   └── __pycache__
+│   └── __pycache__/
 │   │   ├── __init__.cpython-310
 │   │   └── architectures.cpython-310
 ├── inference/              # Pipeline class — frame loop, HUD, alert logic
@@ -76,7 +81,7 @@ Driver-Drowsiness-Detection/
 │   ├── pipeline.py
 │   ├── preprocessor.py
 │   ├── state_machine.py
-│   └── __pycache__
+│   └── __pycache__/
 │   │   ├── __init__.cpython-310
 │   │   ├── alert.cpython-310
 │   │   ├── face_detector.cpython-310
@@ -86,20 +91,27 @@ Driver-Drowsiness-Detection/
 ├── training/               # Dataset loaders, loss functions, trainer
 │   ├── __init__.py
 │   ├── trainer.py
-│   └── __pycache__
+│   └── __pycache__/
 │   │   ├── __init__.cpython-310
 │   │   └── trainer.cpython-310
 ├── utils/                  # Logger, geometry helpers, signal processing
 │   ├── __init__.py
 │   ├── geometry.py
 │   ├── logger.py
-│   └── __pycache__
+│   └── __pycache__/
 │   │   ├── __init__.cpython-310
 │   │   ├── geometry.cpython-310
 │   │   └── logger.cpython-310
 ├── dashboard/              # (Optional) monitoring dashboard
+│   ├── __init__.py
 ├── data/                   # Dataset storage
+│   ├── __init__.py
+│   ├── dataset.py
+│   └── __pycache__/
+│   │   ├── __init__.cpython-310
+│   │   └── dataset.cpython-310
 ├── checkpoints/            # Saved model/calibration checkpoints
+│   └── best_face_model.pth
 ├── logs/                   # Runtime and evaluation logs
 │   ├── train.py
 │   ├── inference.py
@@ -108,7 +120,7 @@ Driver-Drowsiness-Detection/
 │   ├── test_dataset_layout.py
 │   ├── test_state_machine.py
 │   ├── test_training_defaults.py
-│   └── __pycache__
+│   └── __pycache__/
 │   │   ├── __init__.cpython-310
 │   │   ├── test_dataset_layout.cpython-310-pytest-8.1.1
 │   │   ├── test_dataset_layout.cpython-310-pytest-9.1.1
